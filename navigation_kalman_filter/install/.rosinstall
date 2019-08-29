@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rover/Downloads/navigation_kalman_filter/install/setup.sh

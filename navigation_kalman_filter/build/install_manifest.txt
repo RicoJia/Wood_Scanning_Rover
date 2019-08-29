@@ -1,0 +1,10 @@
+/home/rover/Downloads/navigation_kalman_filter/install/_setup_util.py
+/home/rover/Downloads/navigation_kalman_filter/install/env.sh
+/home/rover/Downloads/navigation_kalman_filter/install/setup.bash
+/home/rover/Downloads/navigation_kalman_filter/install/setup.sh
+/home/rover/Downloads/navigation_kalman_filter/install/setup.zsh
+/home/rover/Downloads/navigation_kalman_filter/install/.rosinstall
+/home/rover/Downloads/navigation_kalman_filter/install/lib/pkgconfig/navigation_kalman_filter.pc
+/home/rover/Downloads/navigation_kalman_filter/install/share/navigation_kalman_filter/cmake/navigation_kalman_filterConfig.cmake
+/home/rover/Downloads/navigation_kalman_filter/install/share/navigation_kalman_filter/cmake/navigation_kalman_filterConfig-version.cmake
+/home/rover/Downloads/navigation_kalman_filter/install/share/navigation_kalman_filter/package.xml

@@ -1,0 +1,8 @@
+prefix=/home/rover/Downloads/navigation_kalman_filter/devel
+
+Name: navigation_kalman_filter
+Description: Description of navigation_kalman_filter
+Version: 0.0.0
+Cflags: -I/home/rover/Downloads/navigation_kalman_filter/src/navigation_kalman_filter/include
+Libs: -L/home/rover/Downloads/navigation_kalman_filter/devel/lib 
+Requires: roscpp sensor_msgs std_msgs

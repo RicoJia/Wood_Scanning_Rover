@@ -1,0 +1,2 @@
+navigation_kalman_filter
+-DCATKIN_DEVEL_PREFIX=/home/rover/Downloads/navigation_kalman_filter/devel -DCMAKE_INSTALL_PREFIX=/home/rover/Downloads/navigation_kalman_filter/install -G Unix Makefiles
